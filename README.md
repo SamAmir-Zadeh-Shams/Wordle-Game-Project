@@ -51,7 +51,6 @@ This is a Wordle-style desktop game built using Python and Tkinter. The player h
 
 ## Future Improvements
 
-* Add larger word dictionary
 * Add difficulty levels
 * Track player statistics
 * Improve UI styling
